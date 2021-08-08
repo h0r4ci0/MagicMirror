@@ -18,10 +18,10 @@ En mi guía encontrarás como poder configurar tu Raspberry Pi, como instalar tu
 
 **Referencias**
 
-Creador del repositorio de Magic Mirror: https://github.com/MichMich/MagicMirror
+- Creador del repositorio de Magic Mirror: https://github.com/MichMich/MagicMirror
 
-Configuraciones y extras para tu Magic Mirror: https://www.bujarra.com/instalando-configurando-magic-mirror-raspberry-pi/
+- Configuraciones y extras para tu Magic Mirror: https://www.bujarra.com/instalando-configurando-magic-mirror-raspberry-pi/
 
-Tutorial completo (en inglés): https://electronoobs.com/eng_robotica_tut18.php
+- Tutorial completo (en inglés): https://electronoobs.com/eng_robotica_tut18.php
 
-Guía con enlaces a más webs y tutoriales: https://okupatic.com/2020/03/30/magic-mirror/
+- Guía con enlaces a más webs y tutoriales: https://okupatic.com/2020/03/30/magic-mirror/

@@ -8,4 +8,4 @@ Para aplicar esta configuración en tu Magic Mirror tendrás que hacer lo siguie
 
 **3. Sustituir el archivo config de la carpeta por el archivo config descargado**
 
-Ten en cuenta que esta versión es la release. Por lo que puede que no funcione del todo bien. Siempre puedes descargar la versión estable.
+Ten en cuenta que esta versión es la release, por lo que puede que no funcione del todo bien. Siempre puedes descargar la versión estable.

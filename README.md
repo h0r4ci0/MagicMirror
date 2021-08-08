@@ -17,7 +17,7 @@ En mi guía encontrarás como poder configurar tu Raspberry Pi, como instalar tu
 
 # Referencias
 
-- Creador del repositorio de Magic Mirror: https://github.com/MichMich/MagicMirror
+- Repositorio MichMich/MagicMirror: https://github.com/MichMich/MagicMirror
 
 - Configuraciones y extras para tu Magic Mirror: https://www.bujarra.com/instalando-configurando-magic-mirror-raspberry-pi/
 

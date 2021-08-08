@@ -16,7 +16,7 @@ Este archivo podrá ser editado por cualquiera (bajo mi revisión). Todos vosotr
 En mi guía encontrarás como poder configurar tu Raspberry Pi, como instalar tu Magic Mirror y como configurar tu espejo. Además de la lista de los materiales necesarios, materiales opcionales (sensores, cámaras...) y mucho más. Puedes usar la guía para lo que quieras, pero siempre que la vayas a usar de manera pública menciónala.
 
 
-**Referencias**
+# Referencias
 
 - Creador del repositorio de Magic Mirror: https://github.com/MichMich/MagicMirror
 
@@ -25,3 +25,5 @@ En mi guía encontrarás como poder configurar tu Raspberry Pi, como instalar tu
 - Tutorial completo (en inglés): https://electronoobs.com/eng_robotica_tut18.php
 
 - Guía con enlaces a más webs y tutoriales: https://okupatic.com/2020/03/30/magic-mirror/
+
+- Muchos módulos para añadir a tu Magic Mirror: https://github.com/MichMich/MagicMirror/wiki/3rd-Party-Modules

@@ -1,7 +1,7 @@
 # MagicMirror
-En este repositorio te guiaré para que puedas instalar y configurar tu Magic Mirror. Todos los plugins que añada los subiré aquí.
+En este repositorio te guiaré para que puedas instalar y configurar tu Magic Mirror.
 
-**Instalación**
+# Instalación
 
 **1. Descargar e instalar la última versión de Node.js**
 

@@ -1,5 +1,5 @@
 /* Magic Mirror Config Sample
- *
+ * PRUEBA DE EDICIÓN
  * By Michael Teeuw https://michaelteeuw.nl
  * MIT Licensed.
  *

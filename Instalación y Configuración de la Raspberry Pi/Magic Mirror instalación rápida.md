@@ -2,7 +2,7 @@
 
 **1. Descargar e instalar la última versión de Node.js**
 
-curl -sL https://deb.nodesource.com/setup_14.x | sude -e bash -
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 
 sudo apt install -y nodejs
 

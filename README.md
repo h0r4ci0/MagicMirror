@@ -26,3 +26,5 @@ En mi guía encontrarás como poder configurar tu Raspberry Pi, como instalar tu
 - Guía con enlaces a más webs y tutoriales: https://okupatic.com/2020/03/30/magic-mirror/
 
 - Muchos módulos para añadir a tu Magic Mirror: https://github.com/MichMich/MagicMirror/wiki/3rd-Party-Modules
+
+- Información sobre el Magic Mirror: https://danielredondo.com/posts/20210128_magic_mirror/ 

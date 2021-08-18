@@ -25,5 +25,5 @@ cp config/config.js.sample config/config.js
 ```
 **6. Iniciar MagicMirror**
 ```
-npm run start
+npm start
 ```
